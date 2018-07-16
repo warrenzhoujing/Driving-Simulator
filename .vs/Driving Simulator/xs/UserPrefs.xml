@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{83D2C511-ADF6-D2EA-DF9A-E5B51065508C}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Assets/Scripts/game_manager.cs">
+    <Files>
+      <File FileName="Assets/Assets/Scripts/jeep_follow.cs" Line="10" Column="1" />
+      <File FileName="Assets/Assets/Scripts/car_movement.cs" Line="43" Column="84" />
+      <File FileName="Assets/Assets/Scripts/drive_state.cs" Line="18" Column="1" />
+      <File FileName="Assets/Assets/Scripts/death.cs" Line="14" Column="1" />
+      <File FileName="Assets/Assets/Scripts/game_manager.cs" Line="13" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
